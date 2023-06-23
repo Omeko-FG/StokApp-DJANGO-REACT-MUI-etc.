@@ -1,10 +1,4 @@
-# Redux Toolkit Ornegi
-
-## `Kurulum`
-
-```
-npm install veya yarn
-```
+![ezgif com-video-to-gif (11)](https://github.com/Omeko-FG/StokApp-DJANGO-REACT-MUI-etc./assets/119002766/ca4c1360-ce18-4631-8628-775bc59470ef)
 
 ## `Kullanilan Kutuphaneler`
 
